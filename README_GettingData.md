@@ -10,5 +10,5 @@ This repository contains files for Coursera class "Getting and Cleaning Data” 
 The data set, "Human Activity Recognition Using Smartphones”, was obtained from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ### Execution
-`run_analysis.R` performs the data transformations to clean the data and outputs `tidy_data.txt`, an  independent tidy data set with the average of each variable for each activity and each subject. The required R libraries are `library(dplyr)`, `library(data.table)`, `library(reshape2)`.
+`run_analysis.R` performs the data transformations to clean the data and outputs `tidy_data.txt`, an  independent tidy data set with the average of each variable for each activity and each subject. The required R libraries are `dplyr`, `data.table`, `reshape2`.
 
