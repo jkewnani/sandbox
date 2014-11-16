@@ -104,8 +104,8 @@ tBodyGyroJerkMean
 Data Transformations
 ======
 The data was transformed in these ways:
-* 1. Training and test sets were merged to create one data set.
-* 2. Only measurements of means and standard deviation were included in the data set.
-* 3. The activities were labeled with descriptive activity names. 
-* 4. The data set was labeled with descriptive activity names. 
-* 5. A second, independent tidy data set with the average of each variable for each activity and each subject was created.
+ 1. Training and test sets were merged to create one data set.
+ 2. Only measurements of means and standard deviation were included in the data set.
+ 3. The activities were labeled with descriptive activity names. 
+ 4. The data set was labeled with descriptive activity names. 
+ 5. A second, independent tidy data set with the average of each variable for each activity and each subject was created.
